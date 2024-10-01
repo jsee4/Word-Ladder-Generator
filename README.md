@@ -25,8 +25,7 @@ cat -> cot -> dot -> dog
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/c-word-ladder-generator.git
-   cd c-word-ladder-generator
+   git clone https://github.com/jsee4/Word-Ladder-Generator
    ```
 
 ### Usage
